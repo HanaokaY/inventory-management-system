@@ -11,7 +11,7 @@
 
 ## APIエンドポイント
 
-- `GET /products`: 全商品のリストを取得します。
-- `POST /products`: 新しい商品を登録します。
-- `PUT /products/:id`: 指定の商品を更新します。
-- `DELETE /products/:id`: 指定の商品を削除します。
+- `GET /products`: 全商品のリストを取得
+- `POST /products`: 新しい商品を登録
+- `PUT /products/:id`: 指定の商品を更新
+- `DELETE /products/:id`: 指定の商品を削除
