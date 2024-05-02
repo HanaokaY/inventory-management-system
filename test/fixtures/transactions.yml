@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product: one
+  type: 
+  quantity: 1
+  transaction_date: 2024-05-02 16:58:24
+  operator: MyString
+
+two:
+  product: two
+  type: 
+  quantity: 1
+  transaction_date: 2024-05-02 16:58:24
+  operator: MyString
